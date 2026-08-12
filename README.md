@@ -2,8 +2,8 @@
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning jogos digitais
 - 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me @felps.core
-- ⚡ Fun fact: i'm also learning Desenvolvimento de jogos 2D by Unity 
+- 📫 How to reach me @felps.srs
+- ⚡ Fun fact: i'm also learning Desenvolvimento de jogos 2D by Unity on Udemy
 
 <!---
 FehS0ares/FehS0ares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
